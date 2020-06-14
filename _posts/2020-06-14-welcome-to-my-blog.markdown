@@ -7,3 +7,5 @@ categories: diary
 
 
 这是我的第一篇博客，我要在次记录我的生活点点滴滴，记录我的成长
+
+![这是一个测试图片](/assets/lywy.jpg)
