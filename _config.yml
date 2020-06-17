@@ -1,9 +1,9 @@
 title: 网站的名称
 author:
-  name: 夏厅
-  email: 
+  name: Summer
+  email: 510297739@qq.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  网站的介绍
+  这是一个平凡到掉渣博客网站，也是一个平凡到可以忽略不计的中年阐述经历 讲述故事的地方
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

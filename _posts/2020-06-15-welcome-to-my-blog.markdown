@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "欢迎来到我的博客！"
-date:   2020-06-15 18:01:02 +0800
+date: 2020-06-15
 categories: diary
 ---
 
